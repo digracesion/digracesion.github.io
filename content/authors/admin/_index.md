@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Grace Diaz
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Grace
+last_name: Diaz
 
 # Pronouns (optional)
 pronouns: she/her
@@ -20,156 +20,173 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: QA Engineer
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+#organizations:
+#  - name: GenCoin
+#    url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/digracesion
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/mary-grygjeanne-grace-icay-diaz/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Project Management Certification
+    institution: Medcerts
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Online Bootcamp focused on jump-starting a career in Project Management
+  - area: BSc Computer Science
+    institution: University of the Philippines
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses Included:
+      - Algebra & Trigonometry
+      - Introduction to Computer Science (Python)
+      - Fundamentals of Programming (C)
+      - Discrete Mathematical Structures in Computer Science I, II
+      - Introduction to Calculus
+      - General Physics I, II
+      - Logic Design & Digital Computer Circuits
+      - Data Structures
+      - File Processing & Data Base Systems
+      - Introduction to Statistical Analysis
+      - Introduction to Computer Organization & Machine Level Programming
+      - Software Engineering I, II
+      - Automata & Language Theory
+      - Writing of Scientific Papers
+      - Design and Implementation of Programming Languages
+      - Operating Systems
+      - Web Engineering
+      - Computer Architecture
+      - Systems Analysis & Design
+      - Data Communications and Networking
+      - 3D Computer Graphics and Animation
+      - Ethical and Professional Issues in Computing
+      - Design & Analysis of Algorithms
+      - Computer Vision
+      - Management Information Systems
+      - Introduction to Artificial Intelligence
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: QA Engineer
+    company_name: Micware North America
+    company_url: 'https://micware.co.jp/en/'
+    date_start: 2025-02-10
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Product: Infotainment systems for automotives
+  - position: QA Lead
+    company_name: Yaraku Inc.
+    company_url: 'https://www.yaraku.com/'
+    date_start: 2023-04-01
+    date_end: 2024-02-08
+    summary: |
+      Product: Yarakuzen, a web-based translation management application
+  - position: Linux Component Owner
+    company name: Lenovo Japan
+    company_url: 'https://www.lenovo.com/jp/ja/'
+    date_start: 2019-07-22
+    date_end: 2023-03-24
+    summary: |
+      Product: Thinkpad Line Products on Linux distributions (Ubuntu, RedHat, Fedora, Debian)
+        Focus components:
+         - Bluetooth
+         - Touchpad
+         - Touchpoint
+         - Intel DPTF
+         - Intel Sensorhub
+         - Intel ME Software
+         - Intel ME Firmware
+         - Smart Card
+         - Mediacard
+         - NFC
+         - WWAN (4G, 5G)
+  - position: Research and Development Engineer
+    company name: Advanced World Systems/Solutions, Inc.
+    company_url: 'https://www.awsys-i.com/en/home.php'
+    date_start: 2017-07-10
+    date_end: 2023-03-24
+    summary: |
+      Products:
+       - Image Tagging Software (Built in Python)
+       - Smart Home Integration for Automotive Infotainment System POC
+       - Automotive Infotainment System POC
+       - Navigation Mobile App (iOS)
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+      - name: Programming Languages
+        description: 'Python, C, Java, Javascript, Typescript, HTML, CSS, PHP, SQL'
+      - name: Microsoft Suite
+        description: 'Excel, Powerpoint, Word, Onenote, Outlook, Teams'
+      - name: Google Suite
+        description: 'Gmail, Sheets, Docs'
+      - name: Atlassian Suite
+        description: 'Jira, Trello, Confluence, Loom'
+      - name: Quality Assurance
+        description: |
+          'Manual Testing, Automation Testing, Blackbox Testing, Test Planning, Test Management'
+          'API Testing, RBAC (SCIM) Testing'
+      - name: Test Management Tools
+        description: 'Qase, Testomat, TestRail'
+      - name: Automation Testing
+        description: 'Playwright'
+      - name: Version Control
+        description: 'Git, Github'
+      - name: Documentation and Knowledge Base Management Tools
+        description: 'Notion, Capacities, Obsidian'
+      - name: CI/CD
+        description: 'Jenkins, Github Actions'
+
+  - name: Soft Skills
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: Project Management Methodologies
+        description: 'Agile, Waterfall, Scrum, and Agile-Waterfall Hybrid Methodologies'
+      - name: Comparative Analysis
+      - name: Mentorship
+      - name: Stakeholder Engagement
+      - name: Vendor Management
+      - name: Prompt Engineering
+      - name: Technical Writing
 
 languages:
+  - name: Filipino
+    percent: 100
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Japanese
+    percent: 50
+  - name: Korean
+    percent: 5
+  - name: Spanish
+    percent: 15
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Certified Associate in Project Management (CAPM)
+    url: https://www.credly.com/badges/286805a7-1bd8-4ed5-bc9c-245f69662330
+    date: '2024-12-20'
+    awarder: Project Management Institute
+    summary:
+  - title: Google Project Mnaagement Professional Certificate
+    url: https://www.credly.com/badges/14bd6363-c472-4488-b1ac-c78a8dde99f1
+    date: '2024-07-11'
     awarder: Coursera
     icon: brands/coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: brands/edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: brands/datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: Google Cybersecurity Professional Certificate
+    url: https://www.credly.com/badges/2e1418b1-a8e4-42be-a039-c655f2989b35
+    date: '2024-05-24'
+    awarder: Coursera
+    icon: brands/coursera
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I have developed an interest in having a supporting role to help build the product rather than building the product myself. My extensive background in QA has given me a perspective on the importance of building quality into the product every step of the way, and I wanted to integrate that from a project management standpoint. I care about being able to help in projects every step of the way, so I think pivoting to a project management role is the best for my career goals.

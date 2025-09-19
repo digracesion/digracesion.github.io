@@ -9,6 +9,18 @@ en:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
+#ja:
+#  languageCode: ja
+#  contentDir: content/ja
+#  title: グレース
+#  params:
+#    description: オンライン履歴書
+#  menu:
+#    main:
+#      - name: 传
+#        url: '#about'
+#        weight: 1
+
 #zh:
 #  languageCode: zh-Hans
 #  contentDir: content/zh
