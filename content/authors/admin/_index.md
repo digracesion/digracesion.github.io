@@ -82,7 +82,6 @@ work:
     company_name: Micware North America
     company_url: 'https://micware.co.jp/en/'
     date_start: 2025-02-10
-    date_end: present
     summary: |
       Product: Infotainment Systems for Automotives
       Responsibilities:
